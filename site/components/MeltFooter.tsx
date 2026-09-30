@@ -110,7 +110,9 @@ export default function MeltFooter() {
         <p className="flex items-center gap-2">
           <ScoopMark className="h-4 w-auto text-white" />© 2026 Melt Theory (concept)
         </p>
-        <p className="opacity-90">{footer.note}</p>
+        <p className="opacity-90">
+          Concept website by <a href="https://bilalsalmani.in" target="_blank" rel="noopener noreferrer" className="underline hover:text-white">bilalsalmani</a> (<a href="mailto:bilalsalmani600@gmail.com" className="underline hover:text-white">bilalsalmani600@gmail.com</a>). Melt Theory is a design concept; flavours and prices are samples.
+        </p>
       </div>
     </footer>
   );

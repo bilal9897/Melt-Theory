@@ -1,7 +1,7 @@
 // All text + data for Melt Theory. Prices are samples (it's a concept site).
 // Photos: `photo` is empty until the real image is in public/images/melt/; the <Photo> placeholder shows `tone` + `hint` meanwhile.
 
-export const STUDIO = "Triozen Tech";
+export const STUDIO = "bilalsalmani";
 
 /** Flavour fills (never used for buttons: the UI accent is always strawberry). */
 export const FLAVOUR = {
